@@ -1,5 +1,6 @@
 # Site settings
 title: Kbeznak Parmatonic
+author: Kishan Sheshagiri
 email: kishan.sheshagiri@gmail.com
 description: >
   Welcome to Kbeznak Parmatonic, the flagship product of Texas A&M University System.
@@ -11,3 +12,7 @@ github_username:  kishansheshagiri
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
